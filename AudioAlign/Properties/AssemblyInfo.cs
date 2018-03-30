@@ -1,7 +1,4 @@
 ﻿// 
-// AudioAlign: Audio Synchronization and Analysis Tool
-// Copyright (C) 2010-2015  Mario Guggenberger <mg@protyposis.net>
-// 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Affero General Public License as
 // published by the Free Software Foundation, either version 3 of the
@@ -24,10 +21,10 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AudioAlign: Audio Synchronization and Analysis Tool")]
-[assembly: AssemblyProduct("AudioAlign: Audio Synchronization and Analysis Tool")]
-[assembly: AssemblyCompany("Mario Guggenberger / protyposis.net")]
-[assembly: AssemblyCopyright("Copyright © 2010-2018 Mario Guggenberger")]
+[assembly: AssemblyTitle("IMMA Vid Sync")]
+[assembly: AssemblyProduct("IMMA Vid Sync")]
+[assembly: AssemblyCompany("IMMA J Lewis")]
+[assembly: AssemblyCopyright("Copyright © 2018 IMMA")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -65,3 +62,5 @@ using System.Windows;
 [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 [assembly: AssemblyInformationalVersion("1.0 Alpha")]
+[assembly: NeutralResourcesLanguage("en")]
+
