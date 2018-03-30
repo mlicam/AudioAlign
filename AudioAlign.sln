@@ -89,6 +89,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurio.Test.NetCore", "Aurio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurio.Test.RealtimeFingerprinting", "Aurio\Aurio\Aurio.Test.RealtimeFingerprinting\Aurio.Test.RealtimeFingerprinting.csproj", "{5C39E10D-EE53-4E81-B2E4-DE5C0737AC99}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IMMA Vid Pro", "IMMA Vid Pro\IMMA Vid Pro.vdproj", "{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -383,6 +385,12 @@ Global
 		{5C39E10D-EE53-4E81-B2E4-DE5C0737AC99}.Release|x64.Build.0 = Release|Any CPU
 		{5C39E10D-EE53-4E81-B2E4-DE5C0737AC99}.Release|x86.ActiveCfg = Release|Any CPU
 		{5C39E10D-EE53-4E81-B2E4-DE5C0737AC99}.Release|x86.Build.0 = Release|Any CPU
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Debug|Any CPU.ActiveCfg = Debug
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Debug|x64.ActiveCfg = Debug
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Debug|x86.ActiveCfg = Debug
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Release|Any CPU.ActiveCfg = Release
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Release|x64.ActiveCfg = Release
+		{517829DC-5F7F-4BA1-89EC-92A4DA8E2C9B}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
